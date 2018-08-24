@@ -1,8 +1,8 @@
 # Review Policy for Thunderbird Add-ons
 
-Add-ons extend the core capabilities of Thunderbird, allowing users to modify and personalize their Web experience. A healthy add-on ecosystem, built on trust, is vital for developers to be successful and users to feel safe making Thunderbird their own. For these reasons, Mozilla requires all add-ons to comply with the following set of policies on acceptable practices. The below is not intended to serve as legal advice, nor is it intended to serve as a comprehensive list of terms to include in your add-on’s privacy policy.
+Add-ons extend the core capabilities of Thunderbird, allowing users to modify and personalize their Web experience. A healthy add-on ecosystem, built on trust, is vital for developers to be successful and users to feel safe making Thunderbird their own. For these reasons, the Thunderbird Team requires all add-ons to comply with the following set of policies on acceptable practices. The below is not intended to serve as legal advice, nor is it intended to serve as a comprehensive list of terms to include in your add-on’s privacy policy.
 
-All add-ons are subject to these policies, regardless of how they are distributed. Add-ons that do not comply with these policies may be subject to rejection or disabling by Mozilla.
+All add-ons are subject to these policies, regardless of how they are distributed. Add-ons that do not comply with these policies may be subject to rejection or disabling by the Thunderbird Team.
 
 ## No Surprises
 
@@ -26,13 +26,13 @@ Then the “unexpected” feature(s) must adhere to all of the following require
 
 ## Content
 
-Add-ons that make use of Mozilla trademarks must comply with the Mozilla Trademark Policy. If the add-on uses “Thunderbird” in its name, the naming standard the add-on is expected to follow is “<Add-on name> for Thunderbird”.
+Add-ons that make use of the Thunderbird Team trademarks must comply with the the Thunderbird Team Trademark Policy. If the add-on uses “Thunderbird” in its name, the naming standard the add-on is expected to follow is “<Add-on name> for Thunderbird”.
 
 In addition, add-ons listed on addons.thunderbird.net (ATN) must adhere to the following policies:
 
-- All add-ons submitted for listing on ATN are subject to Mozilla’s Conditions of Use.
+- All add-ons submitted for listing on ATN are subject to the Thunderbird Team’s Conditions of Use.
 - Add-ons must disclose when payment is required to enable any functionality.
-- Any add-ons, or add-on content, hosted on Mozilla site(s) must conform to the laws of the United States.
+- Any add-ons, or add-on content, hosted on the Thunderbird Team site(s) must conform to the laws of the United States.
 - The add-on listing should have an easy-to-read description about everything it does, and any information it collects. Please consult our best practices guide for creating an appealing listing.
 - Add-ons that are intended for internal or private use, or for distribution testing may not be listed on ATN. Such add-ons may be uploaded for self-distribution instead.
 - If the add-on is a fork of another add-on, the name must clearly distinguish it from the original and provide a significant difference in functionality and/or code.
@@ -46,7 +46,7 @@ During review, the add-on undergoes basic testing in addition to code review. To
 Issues brought up during review must be addressed using best efforts. If corrections have been requested, the new version should not contain unrelated changes, as this complicates the review process and can lead to further rejections.
 Source Code Submission
 
-Add-ons may contain transpiled, obfuscated, minified or otherwise machine-generated code, but Mozilla needs to review a copy of the human-readable source code. The author must provide this information to Mozilla during submission as well as instructions on how to reproduce the build.
+Add-ons may contain transpiled, obfuscated, minified or otherwise machine-generated code, but the Thunderbird Team needs to review a copy of the human-readable source code. The author must provide this information to the Thunderbird Team during submission as well as instructions on how to reproduce the build.
 
 The provided source code will be reviewed by an administrator and will not be redistributed in any way. The code will only be used for the purpose of reviewing the add-on. Failure to provide this information will result in rejection.
 
@@ -69,7 +69,7 @@ While any code, method or practice in a submitted add-on is subject to review an
 
 ## Data Disclosure, Collection and Management
 
-You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. Mozilla expects that the add-on limits data collection whenever possible, in keeping with Mozilla’s Lean Data Practices and Mozilla’s Data Privacy Principles, and uses the data only for the purpose for which it was originally collected.
+You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. the Thunderbird Team expects that the add-on limits data collection whenever possible, in keeping with the Thunderbird Team’s Lean Data Practices and the Thunderbird Team’s Data Privacy Principles, and uses the data only for the purpose for which it was originally collected.
 
 User data includes all information the add-on collects, regardless of the manner. It can be personal data actively provided by the user (such as a name or email address), technical data (such as operating system, build ID, version numbers, crash reports, activation, updates), and interaction or activity data (add-on activity data, visited URLs, console logs), including interactions with Thunderbird.
 
@@ -123,8 +123,8 @@ As a result, we take our security policies very seriously and apply them to all 
 
 ## Compliance & Blocklisting
 
-For add-ons that don’t meet these policies, Mozilla may reject or blocklist affected versions or entire add-ons, depending on the extent of their non-compliance.
+For add-ons that don’t meet these policies, the Thunderbird Team may reject or blocklist affected versions or entire add-ons, depending on the extent of their non-compliance.
 
-Generally, Mozilla will attempt to contact the add-on’s developer(s) and provide a reasonable time frame for the problems to be corrected before a block is deployed. If an add-on is considered malicious or its developers have proven unreachable or unresponsive, or in case of repeat violations, blocklisting may be immediate.
+Generally, the Thunderbird Team will attempt to contact the add-on’s developer(s) and provide a reasonable time frame for the problems to be corrected before a block is deployed. If an add-on is considered malicious or its developers have proven unreachable or unresponsive, or in case of repeat violations, blocklisting may be immediate.
 
-Mozilla reserves the right to block or delete the developer’s account on addons.thunderbird.net, thereby preventing further use of the service.
+the Thunderbird Team reserves the right to block or delete the developer’s account on addons.thunderbird.net, thereby preventing further use of the service.
