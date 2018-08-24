@@ -7,7 +7,8 @@ All add-ons are subject to these policies, regardless of how they are distribute
 ## No Surprises
 
 Surprises can be appropriate in many situations, but they are not welcome when user security, privacy and control are at stake. It is extremely important to be as transparent as possible when submitting an add-on. Users should be able to easily discern what the functionality of your add-on is and not be presented with unexpected user experiences after installing it.
-Unexpected Features
+
+## Unexpected Features
 
 “Unexpected” features are those that are unrelated to the add-on’s primary function, and are not likely from the add-on name or description to be expected by a user installing that add-on.
 
@@ -44,7 +45,8 @@ Add-ons must function only as described, and should provide an appealing user ex
 During review, the add-on undergoes basic testing in addition to code review. To facilitate the functional testing, the add-on author must provide testing information and, if applicable, testing credentials required to use the add-on if an account is needed for any part of the add-on’s functionality.
 
 Issues brought up during review must be addressed using best efforts. If corrections have been requested, the new version should not contain unrelated changes, as this complicates the review process and can lead to further rejections.
-Source Code Submission
+
+## Source Code Submission
 
 Add-ons may contain transpiled, obfuscated, minified or otherwise machine-generated code, but the Thunderbird Team needs to review a copy of the human-readable source code. The author must provide this information to the Thunderbird Team during submission as well as instructions on how to reproduce the build.
 
