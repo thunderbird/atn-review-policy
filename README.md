@@ -15,8 +15,8 @@ Surprises can be appropriate in many situations, but they are not welcome when u
 Should an add-on include any unexpected feature that falls into one of the following categories:
 
 - Potentially compromises user privacy or security (like sending data to third parties)
-- Changes default settings like the new tab page, homepage or search engine
-- Makes unexpected changes to the browser or web content
+- Makes undisclosed changes to Thunderbird's default settings.
+- Makes unexpected changes to Thunderbird or user content
 - Includes features or functionality not related to the add-on’s core function(s)
 
 Then the “unexpected” feature(s) must adhere to all of the following requirements:
@@ -27,16 +27,15 @@ Then the “unexpected” feature(s) must adhere to all of the following require
 
 ## Content
 
-Add-ons that make use of the Thunderbird Team trademarks must comply with the the Thunderbird Team Trademark Policy. If the add-on uses “Thunderbird” in its name, the naming standard the add-on is expected to follow is “<Add-on name> for Thunderbird”.
+Add-ons that make use of the Thunderbird trademark may use “Thunderbird” in its name, but are expected to follow the format of “<Add-on name> for Thunderbird”.
 
 In addition, add-ons listed on addons.thunderbird.net (ATN) must adhere to the following policies:
 
-- All add-ons submitted for listing on ATN are subject to the Thunderbird Team’s Conditions of Use.
 - Add-ons must disclose when payment is required to enable any functionality.
 - Any add-ons, or add-on content, hosted on the Thunderbird Team site(s) must conform to the laws of the United States.
-- The add-on listing should have an easy-to-read description about everything it does, and any information it collects. Please consult our best practices guide for creating an appealing listing.
+- The add-on listing should have an easy-to-read description about everything it does, and any information it collects.
 - Add-ons that are intended for internal or private use, or for distribution testing may not be listed on ATN. Such add-ons may be uploaded for self-distribution instead.
-- If the add-on is a fork of another add-on, the name must clearly distinguish it from the original and provide a significant difference in functionality and/or code.
+- If the add-on is a fork of another add-on, the name must clearly distinguish it from the original and provide a significant difference in functionality and/or code. Exceptions may be made in instances where the add-on is no longer maintained by the original author.
 
 ## Submission Guidelines
 
@@ -71,7 +70,7 @@ While any code, method or practice in a submitted add-on is subject to review an
 
 ## Data Disclosure, Collection and Management
 
-You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. the Thunderbird Team expects that the add-on limits data collection whenever possible, in keeping with the Thunderbird Team’s Lean Data Practices and the Thunderbird Team’s Data Privacy Principles, and uses the data only for the purpose for which it was originally collected.
+You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. the Thunderbird Team expects that the add-on limits data collection whenever possible, and uses the data only for the purpose for which it was originally collected.
 
 User data includes all information the add-on collects, regardless of the manner. It can be personal data actively provided by the user (such as a name or email address), technical data (such as operating system, build ID, version numbers, crash reports, activation, updates), and interaction or activity data (add-on activity data, visited URLs, console logs), including interactions with Thunderbird.
 
@@ -83,7 +82,8 @@ The add-on’s privacy policy must be the full policy text; it cannot be a link 
 - address the add-on’s particular privacy properties.
 
 A summary of this information must be included in the add-on’s listing description. Finally, you and your add-on must also comply with all applicable data privacy laws as well as any other laws that may apply to your specific add-on.
-User Interactions & Technical Data
+
+## User Interactions & Technical Data
 
 - Users must be provided a clear way to control this data collection. The control mechanism must be shown during the installation process of the add-on.
 - Add-ons must only collect information about add-on performance and/or use.
@@ -107,14 +107,12 @@ User Interactions & Technical Data
 - Leaking local or user-sensitive information to websites or other processes (e.g., using native messaging) is prohibited.
 - If the add-on uses native messaging, the privacy policy must clearly disclose which information is being exchanged with the native application. Data exchanged with the native application must be in accordance with our No Surprises policy.
 - HTTPS must be used for security and privacy-sensitive operations such as transmitting passwords or tokens.
-- Browsing data from private browsing sessions must not be stored.
-- Identity information must not be leaked to web content in private browsing sessions.
 
 ## Security Vulnerabilities
 
-Because add-ons run in an environment with elevated privileges relative to ordinary web pages, they present a very serious set of security considerations. They have the potential to open security holes not only in the add-ons themselves, but also in the browser, in web pages, and, in particularly distressing cases, the entire system the browser is running on.
+Because add-ons run in an environment with elevated privileges, they present a very serious set of security considerations. They have the potential to open security holes not only in the add-ons themselves, but also in Thunderbird, user content, and, in particularly distressing cases, the entire system the application is running on.
 
-As a result, we take our security policies very seriously and apply them to all add-ons, whether hosted on ATN or not. We expect all add-ons to be secure and well-maintained in handling both their own data and their user’s data. They must also securely manage all of their interactions with the web, the browser and the operating system.
+As a result, we take our security policies very seriously and apply them to all add-ons, whether hosted on ATN or not. We expect all add-ons to be secure and well-maintained in handling both their own data and their user’s data. They must also securely manage all of their interactions with the personal data, Thunderbird and the operating system.
 
 ## Monetization
 
