@@ -15,7 +15,7 @@ Surprises can be appropriate in many situations, but they are not welcome when u
 Should an add-on include any unexpected feature that falls into one of the following categories:
 
 - Potentially compromises user privacy or security (like sending data to third parties)
-- Makes undisclosed changes to Thunderbird's default settings.
+- Makes undisclosed changes to Thunderbird's default settings like the mail start page and search engine.
 - Makes unexpected changes to Thunderbird or user content
 - Includes features or functionality not related to the add-on’s core function(s)
 
@@ -70,7 +70,7 @@ While any code, method or practice in a submitted add-on is subject to review an
 
 ## Data Disclosure, Collection and Management
 
-You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. the Thunderbird Team expects that the add-on limits data collection whenever possible, and uses the data only for the purpose for which it was originally collected.
+You must disclose how the add-on collects, uses, stores and shares user data in the privacy policy field on ATN. the Thunderbird Team expects that the add-on limits data collection whenever possible, in keeping with [Mozilla’s Lean Data Practices](https://www.mozilla.org/en-US/about/policy/lean-data/) and [Mozilla’s Data Privacy Principles](https://www.mozilla.org/en-US/privacy/principles/), and uses the data only for the purpose for which it was originally collected.
 
 User data includes all information the add-on collects, regardless of the manner. It can be personal data actively provided by the user (such as a name or email address), technical data (such as operating system, build ID, version numbers, crash reports, activation, updates), and interaction or activity data (add-on activity data, visited URLs, console logs), including interactions with Thunderbird.
 
