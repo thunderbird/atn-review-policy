@@ -132,4 +132,4 @@ For add-ons that don’t meet these policies, the Thunderbird Team may reject or
 
 Generally, the Thunderbird Team will attempt to contact the add-on’s developer(s) and provide a reasonable time frame for the problems to be corrected before a block is deployed. If an add-on is considered malicious or its developers have proven unreachable or unresponsive, or in case of repeat violations, blocklisting may be immediate.
 
-the Thunderbird Team reserves the right to block or delete the developer’s account on addons.thunderbird.net, thereby preventing further use of the service.
+The Thunderbird Team reserves the right to block or delete the developer’s account on addons.thunderbird.net, thereby preventing further use of the service.
