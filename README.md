@@ -43,7 +43,12 @@ Add-ons must function only as described, and should provide an appealing user ex
 
 During review, the add-on undergoes basic testing in addition to code review. To facilitate the functional testing, the add-on author must provide testing information and, if applicable, testing credentials required to use the add-on if an account is needed for any part of the add-on’s functionality.
 
-Issues brought up during review must be addressed using best efforts. If corrections have been requested, the new version should not contain unrelated changes, as this complicates the review process and can lead to further rejections.
+Issues brought up during review must be addressed using best efforts and in a reasonable time frame. If corrections have been requested, the new version should not contain unrelated changes, as this complicates the review process and can lead to further rejections.
+
+### Reasons Your Add-on Might Be Rejected
+
+- Add-on does not work with a supported version of Thunderbird.
+- You do not respond to a reviewers request or comment within 10 days.
 
 ## Source Code Submission
 
