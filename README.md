@@ -69,7 +69,6 @@ Add-ons may contain transpiled, obfuscated, minified or otherwise machine-genera
 
 The provided source code will be reviewed by an administrator and will not be redistributed in any way. The code will only be used for the purpose of reviewing the add-on. Failure to provide this information will result in rejection.
 
-Add-ons are not allowed to contain obfuscated code, nor code that hides the purpose of the functionality involved. If external resources are used in combination with add-on code, the functionality of the code must not be obscured. To the contrary, minification of code with the intent to reduce file size is permitted.
 Please read [Mozilla’s Source Code Submission guidelines](https://extensionworkshop.com/documentation/publish/source-code-submission/) to avoid unexpected rejections.
 
 
