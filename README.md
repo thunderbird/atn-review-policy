@@ -60,7 +60,7 @@ Issues brought up during review must be addressed using best efforts and in a re
 ### Reasons Your Add-on Might Be Rejected
 
 - Add-on does not work with a supported version of Thunderbird.
-- Add-on is using an Experiment even though the same functionality is available through a buit-in WebExtension API
+- Add-on is using an Experiment even though the same functionality is available through a built-in WebExtension API
 - You do not respond to a reviewers request or comment within 10 days.
 
 ## Source Code Submission
