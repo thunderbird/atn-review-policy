@@ -49,7 +49,7 @@ Add-on submissions are either approved automatically and will be available to th
 
 An add-on will require manual review, if it matches at least one of the following criteria:
 
-- includes one ore more Experiments
+- includes one or more Experiments
 - requests (or formerly had requested) permission to access sensitive user data (messages, contacts)
 - has been flagged for manual review by a reviewer 
 
