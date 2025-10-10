@@ -1,3 +1,22 @@
-theme: jekyll-theme-primer
-name: addons.thunderbird.net
-title: null
+remote_theme: just-the-docs/just-the-docs
+baseurl: "/webext-support"
+title: "Review Policy for Thunderbird Add-ons"
+logo: "/assets/logo.png"
+logo_only: true
+
+url: "https://thunderbird.github.io/atn-review-policy/"
+color_scheme: light
+
+include:
+  - assets
+
+# Navigation
+nav_external_links:
+  - title: "addons.thunderbird.net"
+    url: "https://addons.thunderbird.net"
+  - title: "Add-on Reviewer Guide"
+    url: "https://addons-reviewer-guide.thunderbird.net/"
+
+# Define look of right-side TOC
+just_the_docs:
+  search_enabled: true
