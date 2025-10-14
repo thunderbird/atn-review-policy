@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-baseurl: "/webext-support"
+baseurl: "/atn-review-policy"
 title: "Review Policy for Thunderbird Add-ons"
 logo: "/assets/logo.png"
 logo_only: true
