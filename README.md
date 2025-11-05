@@ -34,7 +34,7 @@ In addition, add-ons listed on addons.thunderbird.net (ATN) must adhere to the f
 - All add-ons submitted for listing on ATN are subject to [Mozilla’s Conditions of Use](https://www.mozilla.org/about/legal/acceptable-use/)
 - Add-ons must disclose when payment is required to enable any functionality.
 - Any add-ons, or add-on content, hosted on the Thunderbird Team site(s) must conform to the laws of the United States.
-- Add-ons must not include any form of promotional content, including advertisements, endorsements, or links promoting third-party products. 
+- Add-ons must not include inappropriate content, including (but not limited to) misleading information, offensive material, or advertisements, endorsements, or links promoting third-party products or services.
 - The add-on listing should have an easy-to-read description about everything it does, and any information it collects.
 - Add-ons that are intended for internal or private use, or for distribution testing may not be listed on ATN. Such add-ons may be uploaded for self-distribution instead.
 - If the add-on is a fork of another add-on, the name must clearly distinguish it from the original and provide a significant difference in functionality and/or code. Exceptions may be made in instances where the add-on is no longer maintained by the original author.
