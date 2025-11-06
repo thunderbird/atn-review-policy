@@ -1,2 +1,10 @@
 // _sass/custom/setup.scss
 $nav-width: 18rem;
+
+.nav-list-link.external {
+  svg {
+    display: inline;
+    margin-left: 0.2em;
+    white-space: nowrap;
+  }
+}
